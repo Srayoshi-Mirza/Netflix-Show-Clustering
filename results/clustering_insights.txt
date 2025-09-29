@@ -1,0 +1,80 @@
+
+NETFLIX CONTENT CLUSTERING RESULTS
+===================================
+
+CLUSTERING SUMMARY:
+- Optimal number of clusters: 10
+- Silhouette Score: 0.3601
+- Total titles analyzed: 200
+
+CLUSTER CHARACTERISTICS:
+
+Cluster 0 (11.0% of content):
+  - Primary Content: TV Show (100.0%)
+  - Average Release Year: 2018
+  - Dominant Rating: TV-Y7
+  - Top Genre: Kids' TV
+  - Main Origin: Unknown Country
+
+Cluster 1 (12.5% of content):
+  - Primary Content: Movie (100.0%)
+  - Average Release Year: 2005
+  - Dominant Rating: PG-13
+  - Top Genre: Dramas
+  - Main Origin: United States
+
+Cluster 2 (11.5% of content):
+  - Primary Content: Movie (100.0%)
+  - Average Release Year: 2005
+  - Dominant Rating: PG-13
+  - Top Genre: Comedies
+  - Main Origin: United States
+
+Cluster 3 (9.0% of content):
+  - Primary Content: Movie (100.0%)
+  - Average Release Year: 2009
+  - Dominant Rating: TV-14
+  - Top Genre: International Movies
+  - Main Origin: Japan
+
+Cluster 4 (13.0% of content):
+  - Primary Content: TV Show (100.0%)
+  - Average Release Year: 2020
+  - Dominant Rating: TV-MA
+  - Top Genre: International TV Shows
+  - Main Origin: Unknown Country
+
+Cluster 5 (10.0% of content):
+  - Primary Content: Movie (100.0%)
+  - Average Release Year: 2015
+  - Dominant Rating: TV-MA
+  - Top Genre: International Movies
+  - Main Origin: Unknown Country
+
+Cluster 6 (11.5% of content):
+  - Primary Content: Movie (100.0%)
+  - Average Release Year: 2017
+  - Dominant Rating: PG-13
+  - Top Genre: Documentaries
+  - Main Origin: United States
+
+Cluster 7 (7.5% of content):
+  - Primary Content: TV Show (100.0%)
+  - Average Release Year: 2019
+  - Dominant Rating: TV-MA
+  - Top Genre: TV Dramas
+  - Main Origin: Unknown Country
+
+Cluster 8 (5.0% of content):
+  - Primary Content: TV Show (100.0%)
+  - Average Release Year: 2018
+  - Dominant Rating: TV-MA
+  - Top Genre: TV Comedies
+  - Main Origin: Unknown Country
+
+Cluster 9 (9.0% of content):
+  - Primary Content: Movie (100.0%)
+  - Average Release Year: 1998
+  - Dominant Rating: R
+  - Top Genre: Action & Adventure
+  - Main Origin: United States

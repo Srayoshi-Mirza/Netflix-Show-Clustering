@@ -1,0 +1,15 @@
+feature_name,feature_type
+is_tv_show,basic
+release_year_norm,basic
+rating_level_norm,basic
+duration_norm,basic
+genre_dramas,genre
+genre_international_movies,genre
+genre_comedies,genre
+genre_action_and_adventure,genre
+genre_international_tv_shows,genre
+genre_kids'_tv,genre
+genre_tv_comedies,genre
+genre_thrillers,genre
+genre_tv_dramas,genre
+genre_romantic_movies,genre
