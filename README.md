@@ -22,12 +22,6 @@ Use unsupervised machine learning to:
 3. **Identify** content gaps and acquisition opportunities
 4. **Inform** recommendation system development
 
-### Business Impact
-- **Content Strategy:** Data-driven acquisition decisions worth millions
-- **Recommendation Systems:** Better "More Like This" suggestions → higher retention
-- **Competitive Intelligence:** Understand Netflix's positioning vs competitors
-- **Portfolio Optimization:** Balance content mix across segments
-
 ##  Dataset
 
 **Source:** [Kaggle - Netflix Movies and TV Shows](https://www.kaggle.com/datasets/rohitgrewal/netflix-data)
