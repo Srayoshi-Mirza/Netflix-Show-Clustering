@@ -22,6 +22,12 @@ Use unsupervised machine learning to:
 3. **Identify** content gaps and acquisition opportunities
 4. **Inform** recommendation system development
 
+### Business Impact
+- **Content Strategy:** Data-driven acquisition decisions worth millions
+- **Recommendation Systems:** Better "More Like This" suggestions → higher retention
+- **Competitive Intelligence:** Understand Netflix's positioning vs competitors
+- **Portfolio Optimization:** Balance content mix across segments
+
 ##  Dataset
 
 **Source:** [Kaggle - Netflix Movies and TV Shows](https://www.kaggle.com/datasets/rohitgrewal/netflix-data)
@@ -48,13 +54,6 @@ Use unsupervised machine learning to:
 3. Identify strategic content gaps worth investigating for investment
 4. Build foundation for similarity-based recommendation engine
 5. Create portfolio-quality project demonstrating end-to-end ML skills
-
-**Expected Outcomes:**
-- Clustered Netflix catalog with clear segment definitions
-- Visual representations of content organization patterns
-- Strategic insights report with business recommendations
-- Documentation suitable for technical and non-technical audiences
-- Reproducible code for portfolio demonstration
 
 ##  Project Structure
 
@@ -104,8 +103,8 @@ netflix-show-clustering/
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/Srayoshi-Mirza/netflix-show-clustering.git
-cd netflix-show-clustering
+git clone https://github.com/Srayoshi-Mirza/Netflix-Show-Clustering.git
+cd Netflix-Show-Clustering
 ```
 
 ### Step 2: Create Virtual Environment
@@ -126,7 +125,7 @@ pip install -r requirements.txt
 
 ### Step 4: Download Dataset
 1. Go to [Kaggle Netflix Dataset](https://www.kaggle.com/datasets/rohitgrewal/netflix-data)
-2. Download `netflix_titles.csv`
+2. Download `Netflix_Dataset.csv`
 3. Place in `data/raw/` folder
 
 ---
