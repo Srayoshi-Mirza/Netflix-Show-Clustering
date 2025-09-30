@@ -326,10 +326,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Email: srayoshimirza@gmail.com
 - Portfolio: [srayoshimirza.netlify.app](https://srayoshimirza.netlify.app)
 
-**Project Link:** [https://github.com/Srayoshi-Mirza/netflix-show-clustering](https://github.com/Srayoshi-Mirza/netflix-show-clustering)
-
----
-
 ## Acknowledgments
 
 - [Kaggle](https://www.kaggle.com/) for providing the Netflix dataset
