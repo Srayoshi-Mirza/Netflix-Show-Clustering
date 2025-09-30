@@ -7,17 +7,19 @@ data/processed/
 *.json
 *.parquet
 
+results/
+results/*.csv
+results/*.png
+results/*.jpg
+results/*.txt
+
+models/
+models/*.pkl
+models/*.joblib
+
 # Keep directory structure but ignore contents
 !data/.gitkeep
 !data/raw/.gitkeep
 !data/processed/.gitkeep
 
 
-results/
-results/*.csv
-results/*.png
-results/*.jpg
-results/*.txt
-models/
-models/*.pkl
-models/*.joblib

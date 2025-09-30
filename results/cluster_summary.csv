@@ -1,8 +1,0 @@
-cluster_id,size,percentage,main_type,avg_release_year,top_rating
-0,35,17.5,TV Show,2021.0,TV-Y7
-1,31,15.5,Movie,2021.0,PG-13
-2,31,15.5,TV Show,2021.0,TV-MA
-3,26,13.0,Movie,2021.0,TV-PG
-4,30,15.0,Movie,2021.0,PG-13
-5,24,12.0,Movie,2021.0,TV-MA
-6,23,11.5,Movie,2021.0,PG-13

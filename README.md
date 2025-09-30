@@ -1,5 +1,4 @@
-# Project Name:
-Netflix Content Clustering: A Data-Driven Approach to Content Strategy & Recommendation Systems
+# Project Name: Netflix Content Clustering: A Data-Driven Approach to Content Strategy & Recommendation Systems
 
 ### Background: 
 Netflix hosts over 8,800 titles across movies and TV shows, serving 200+ million subscribers globally. Understanding content organization patterns is crucial for content acquisition strategy, recommendation systems, and competitive positioning. This project leverages unsupervised machine learning to uncover hidden patterns in Netflix's content library.
