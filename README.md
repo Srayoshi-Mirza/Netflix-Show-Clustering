@@ -28,7 +28,7 @@ Use unsupervised machine learning to:
 - **Competitive Intelligence:** Understand Netflix's positioning vs competitors
 - **Portfolio Optimization:** Balance content mix across segments
 
-## 📊 Dataset
+##  Dataset
 
 **Source:** [Kaggle - Netflix Movies and TV Shows](https://www.kaggle.com/datasets/rohitgrewal/netflix-data)
 
@@ -62,7 +62,7 @@ Use unsupervised machine learning to:
 - Documentation suitable for technical and non-technical audiences
 - Reproducible code for portfolio demonstration
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 netflix-show-clustering/
@@ -110,7 +110,7 @@ netflix-show-clustering/
 
 ### Step 1: Clone Repository
 ```bash
-git clone https://github.com/yourusername/netflix-show-clustering.git
+git clone https://github.com/Srayoshi-Mirza/netflix-show-clustering.git
 cd netflix-show-clustering
 ```
 
@@ -137,7 +137,7 @@ pip install -r requirements.txt
 
 ---
 
-## 💻 Usage
+##  Usage
 
 ### Option 1: Quick Start (Single Script)
 ```bash
@@ -244,7 +244,7 @@ results = clusterer.find_optimal_clusters(features)
 7. **Rating Distribution** by cluster
 
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 **Programming Language:**
 - Python 3.8+
@@ -269,7 +269,7 @@ results = clusterer.find_optimal_clusters(features)
 
 ---
 
-## 🔮 Future Work
+## Future Work
 
 ### Technical Improvements
 - [ ] Try DBSCAN and Hierarchical Clustering
@@ -293,7 +293,7 @@ results = clusterer.find_optimal_clusters(features)
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Please follow these steps:
 
@@ -312,7 +312,7 @@ Contributions are welcome! Please follow these steps:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
@@ -321,12 +321,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Contact
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+- GitHub: [@Srayoshi-Mirza](https://github.com/Srayoshi-Mirza)
+- LinkedIn: [Srayoshi Bashed Mirza ](https://www.linkedin.com/in/srayoshi-mirza)
+- Email: srayoshimirza@gmail.com
+- Portfolio: [srayoshimirza.netlify.app](https://srayoshimirza.netlify.app)
 
-**Project Link:** [https://github.com/yourusername/netflix-show-clustering](https://github.com/yourusername/netflix-show-clustering)
+**Project Link:** [https://github.com/Srayoshi-Mirza/netflix-show-clustering](https://github.com/Srayoshi-Mirza/netflix-show-clustering)
 
 ---
 
