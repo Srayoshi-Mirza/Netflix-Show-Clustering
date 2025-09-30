@@ -195,7 +195,7 @@ if __name__ == "__main__":
     preprocessor = NetflixDataPreprocessor()
     
     # Load and process data
-    df = preprocessor.load_data('data/raw/netflix_titles.csv')
+    df = preprocessor.load_data('data/raw/Netflix_Dataset.csv')
     preprocessor.basic_info(df)
     
     # Clean and prepare data

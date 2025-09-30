@@ -1,11 +1,8 @@
-cluster_id,size,percentage,main_type,type_pct,avg_release_year,top_rating,top_genre,top_country
-0,22,11.0,TV Show,100.0,2017.9545454545455,TV-Y7,Kids' TV,Unknown Country
-1,25,12.5,Movie,100.0,2005.36,PG-13,Dramas,United States
-2,23,11.5,Movie,100.0,2005.3478260869565,PG-13,Comedies,United States
-3,18,9.0,Movie,100.0,2009.2222222222222,TV-14,International Movies,Japan
-4,26,13.0,TV Show,100.0,2020.076923076923,TV-MA,International TV Shows,Unknown Country
-5,20,10.0,Movie,100.0,2015.2,TV-MA,International Movies,Unknown Country
-6,23,11.5,Movie,100.0,2016.8695652173913,PG-13,Documentaries,United States
-7,15,7.5,TV Show,100.0,2018.6,TV-MA,TV Dramas,Unknown Country
-8,10,5.0,TV Show,100.0,2017.7,TV-MA,TV Comedies,Unknown Country
-9,18,9.0,Movie,100.0,1997.6666666666667,R,Action & Adventure,United States
+cluster_id,size,percentage,main_type,avg_release_year,top_rating
+0,35,17.5,TV Show,2021.0,TV-Y7
+1,31,15.5,Movie,2021.0,PG-13
+2,31,15.5,TV Show,2021.0,TV-MA
+3,26,13.0,Movie,2021.0,TV-PG
+4,30,15.0,Movie,2021.0,PG-13
+5,24,12.0,Movie,2021.0,TV-MA
+6,23,11.5,Movie,2021.0,PG-13
